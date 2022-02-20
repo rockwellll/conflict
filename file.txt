@@ -1,6 +1,8 @@
 some new changes
 
+ammer changes
 new changes on branch-1
 
 
 conflicting changes
+
